@@ -1,6 +1,6 @@
 <?php
 
-namespace Ayi\imgverify;
+namespace ayi\imgverify;
 class Imgverify
 {
     static public $instance = null;
