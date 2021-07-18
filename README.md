@@ -7,8 +7,16 @@ $ composer require ayi/imgverify -vvv
 
 ## Usage
 
-- 引入**require __DIR__ .'/vendor/autoload.php';**
-- 引入**use ayi\imgverify\Imgverify;**
+- 引入
+
+```php
+require __DIR__ .'/vendor/autoload.php';
+```
+- 引入
+
+```php
+use ayi\imgverify\Imgverify;
+```
 - 实例化
 
 ```php
