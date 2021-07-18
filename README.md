@@ -1,9 +1,4 @@
 
-## Installing
-
-```shell
-$ composer require ayi/imgverify -vvv
-```
 
 ## Usage
 
@@ -33,7 +28,7 @@ $obj=Imgverify::getInstance($config);
 - 背景图片(1920x1080这个比例的,现使用679px*382px且图片避免用白色背景的)和拖动图片(90px*90px)
 
 ```
-在imageg中的分支中
+在https://github.com/yll1024335892/imgverify的image中的分支中
 ```
 
 - 获取图片的数据举例
