@@ -1,0 +1,17 @@
+{
+    "name": "ayi\/imgverify",
+    "description": "Package description here.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yll1024335892",
+            "email": "yll1024335892@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Ayi\\Imgverify\\": "src"
+        }
+    }
+}
